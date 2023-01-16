@@ -213,7 +213,7 @@ p{
   .lets_get{
     margin-top: 4%;
     height:  422px;
-    background: #F1F1F1;
+    background: #fff;
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 250px 250px;
